@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="bt1">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:backgroundTint">#0DFB39</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textStyle">italic|bold</item>
+        <item name="android:textSize">14dp</item>
+    </style>
+    <style name="bt2">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:backgroundTint">#FB9C0D</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textStyle">italic|bold</item>
+        <item name="android:textSize">14dp</item>
+    </style>
+
+
+</resources>
